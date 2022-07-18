@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "test_sonda",
+    "slug": "test_sonda",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
