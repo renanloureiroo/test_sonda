@@ -7,7 +7,6 @@ import { Home } from "./src/screens/Home";
 import { theme } from "./src/themes/theme";
 
 export default function App() {
-  react - native - gesture - handler;
   return (
     <ThemeProvider theme={theme}>
       <StatusBar style="light" translucent backgroundColor="transparent" />
